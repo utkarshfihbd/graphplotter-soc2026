@@ -1,0 +1,4 @@
+# usable functions- sin, cos, tan, exp, log, sqrt and abs. functions must be followed by brackets. 
+# allowed variables- x and z, and t for time
+# first non-comment, non-empty line is read
+abs(sin(sqrt(x+t)))*cos(exp(z))
